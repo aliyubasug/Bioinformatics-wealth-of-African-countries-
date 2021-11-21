@@ -10,18 +10,18 @@ Bioinformatics in Africa and initiatives to promote it e..g H3BioNet, H3Africa, 
 ## Questions and hypothesis 
 **Search term**: "Country" AND (Bioinformatics OR "Computational Genomics" OR "Computational Biology")
 
-1- Check the number of publications using bioinformatics tools in different African countries for scientific research
-2- Are they primary or review papers 
-3- Was the research conducted locally 
-4- In the primary papers, were the tools sourced locally? Or from abroad?
-5- In the primary papers, is there local institutional collaboration?
-6- What was done in the collaborating country
-7- How many of these articles focus on bioinformatics?
-8- What area of bioinformatics that is commonly used in addressing problems e.g. RNA-Seq, Chip-Seq, WGS, GWAS, scRNA-Seq etc
-9- Countries that published in Africa according to region e.g. West, East, North and Southern Africa 
-10- Institutions with the top bioinformatics publication 
-11- Bioinformatics Labs and infrastructure across Africa
-12- Affiliation or funding: Local or International 
+- Check the number of publications using bioinformatics tools in different African countries for scientific research
+- Are they primary or review papers 
+- Was the research conducted locally 
+- In the primary papers, were the tools sourced locally? Or from abroad?
+- In the primary papers, is there local institutional collaboration?
+- What was done in the collaborating country
+- How many of these articles focus on bioinformatics?
+- What area of bioinformatics that is commonly used in addressing problems e.g. RNA-Seq, Chip-Seq, WGS, GWAS, scRNA-Seq etc
+- Countries that published in Africa according to region e.g. West, East, North and Southern Africa 
+- Institutions with the top bioinformatics publication 
+- Bioinformatics Labs and infrastructure across Africa
+- Affiliation or funding: Local or International 
 
 
 ### Methods
