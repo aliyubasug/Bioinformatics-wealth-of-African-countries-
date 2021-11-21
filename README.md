@@ -1,2 +1,71 @@
-# Bioinformatics-wealth-of-African-countries-
-Bioinformatics wealth of African countries 
+# Bioinformatics: wealth of African countries
+
+## Overview
+
+Bioinformatics tools used for research
+Challenges of the different bioinformatics tools in Africa
+Challenges of research in Africa e.g. funding, infrastructure, electricity and equipment
+Bioinformatics in Africa and initiatives to promote it e..g H3BioNet, H3Africa, ASBCB, EANBiT, NBGN
+
+## Questions and hypothesis 
+**Search term**: "Country" AND (Bioinformatics OR "Computational Genomics" OR "Computational Biology")
+
+1- Check the number of publications using bioinformatics tools in different African countries for scientific research
+2- Are they primary or review papers 
+3- Was the research conducted locally 
+4- In the primary papers, were the tools sourced locally? Or from abroad?
+5- In the primary papers, is there local institutional collaboration?
+6- What was done in the collaborating country
+7- How many of these articles focus on bioinformatics?
+8- What area of bioinformatics that is commonly used in addressing problems e.g. RNA-Seq, Chip-Seq, WGS, GWAS, scRNA-Seq etc
+9- Countries that published in Africa according to region e.g. West, East, North and Southern Africa 
+10- Institutions with the top bioinformatics publication 
+11- Bioinformatics Labs and infrastructure across Africa
+12- Affiliation or funding: Local or International 
+
+
+### Methods
+
+An excel workbooks containing all African countries were used for literature mining and carrying out the analysis. The workbook contains the following sheets:
+1) Search strategy (where the search terms can be located, use it to mine literature and fill the spaces provided)
+2) Country_All (This should have the country name and all the articles downloaded from PubMed)
+3) Country_Analysed (This should have countries name and only the articles that passed the criteria and which was analysed) 
+4) Coded (Contains the definition of terms and how article was score for each questions that was asked). 
+
+PubMed was searched for articles pertaining to bioinformatics or computional biology using the **Search term**: "Country" AND (Bioinformatics OR "Computational Genomics" OR "Computational Biology"). Full text and additional metadata were retrieved from the PubMed Central (PMC) database for the open access subset of articles.
+
+
+#### Flow diagram
+
+## Analysis  
+
+
+## Discussion
+Challenges for using bioinformatics in research in Africa 
+Labs
+Bioinformatics skills 
+collaboration
+Funding
+Future
+
+
+### Reference
+
+
+
+### Reproducing
+
+Prerequisites:
+
+- Ubuntu: 20.04 (x64)
+- Python: 3.8.3
+- R: 3.6.3
+
+Install the minimal requirements for reproduction and download required data:
+
+```bash
+pip install -r setup/requirements.txt
+Rscript helpers/restore.R
+cd data
+./download.sh
+```
