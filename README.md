@@ -42,11 +42,11 @@ PubMed was searched for articles pertaining to bioinformatics or computional bio
 
 ## Discussion
 Challenges for using bioinformatics in research in Africa 
-Labs
-Bioinformatics skills 
-collaboration
-Funding
-Future
+- Labs
+- Bioinformatics skills 
+- Collaboration
+- Funding
+- Future
 
 
 ### Reference
