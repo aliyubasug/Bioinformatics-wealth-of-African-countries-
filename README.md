@@ -15,7 +15,7 @@
 - Was the research conducted locally 
 - In the primary papers, were the tools sourced locally? Or from abroad?
 - In the primary papers, is there local institutional collaboration?
-- What was done in the collaborating country
+- What was done in the collaborating country or the local institution?
 - How many of these articles focus on bioinformatics?
 - What area of bioinformatics that is commonly used in addressing problems e.g. RNA-Seq, Chip-Seq, WGS, GWAS, scRNA-Seq etc
 - Countries that published in Africa according to region e.g. West, East, North and Southern Africa 
